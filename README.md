@@ -10,7 +10,7 @@ An API that allows you to get your ability draft match build visualized.
 
 ## Update constant data:
 - run ```python3 get_(abilities, heroes or items).py``` from draftshare/data/scripts directory
-- wait it to finish and start server
+- wait until it finishes and run the server
 
 ## Use:
 - http://127.0.0.1:8000/api/match/{match_id}/{user_id}
